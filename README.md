@@ -42,4 +42,4 @@ Le site présente :
 - **Accessibilité** - Skip link, focus visible, attributs ARIA
 - **SEO optimisé** - Meta tags, Open Graph, structure sémantique
 
-## 📁 Structure du projet
+https://nathanaeldev08.github.io/IT-FORMATION---Centres-de-formation-aux-m-tiers-du-num-rique/
